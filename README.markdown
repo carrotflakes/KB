@@ -8,6 +8,11 @@
   - Common Lisp
   - GUI
 - 知識の自動獲得手法の模索
+- 知識ベース応用の模索
+  - 自然言語理解
+  - 物語生成
+  - MeCab 辞書生成
+  - クイズ王を目指す
 
 ## References
 やさしい日本語 http://www.jnlp.org/research/Japanese_simplification
